@@ -1,4 +1,4 @@
-<DUCKETT HTML BOOK  {CHAPTER SUMMERIES}>
+<DUCKETT HTML BOOK  {CHAPTER SUMMARIES}>
 
 <CHAPTER 1 {STRUCTURE}>
 <Structure = Page layout; HTML describes structures of pages>
